@@ -1,6 +1,6 @@
 module github.com/wachayathorn/grpc-beginner
 
-go 1.24.2
+go 1.26.0
 
 require (
 	google.golang.org/grpc v1.77.0
